@@ -1,0 +1,23 @@
+{
+  "name": "Complex_form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJANGEL/Complex_form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJANGEL/Complex_form/issues"
+  },
+  "homepage": "https://github.com/TJANGEL/Complex_form#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
